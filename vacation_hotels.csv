@@ -1,0 +1,10 @@
+﻿City,Cloudiness,Country,Date,Humidity,Lat,Lng,Max Temp,Wind Speed,Hotel Name
+bidar,0.0,IN,2020-04-12,24.0,17.9,77.55,77.72,7.25,Kaveri Hotel
+srikakulam,0.0,IN,2020-04-12,85.0,18.3,83.9,78.15,5.1,SVA Hotel Grand
+ukiah,1.0,US,2020-04-12,49.0,39.15,-123.21,71.6,5.82,Economy Inn Ukiah
+thinadhoo,0.0,MV,2020-04-12,64.0,0.53,72.93,84.0,5.44,Sunset Stay
+dakar,1.0,SN,2020-04-12,88.0,14.69,-17.44,75.2,4.7,Wakola Hotels
+atar,0.0,MR,2020-04-12,20.0,20.52,-13.05,80.98,7.96,Oumou Elghoura
+tura,0.0,IN,2020-04-12,26.0,25.52,90.22,71.02,2.8,Hotel RIKMAN Continental
+midland,1.0,US,2020-04-12,16.0,32.0,-102.08,80.6,9.17,DoubleTree by Hilton Hotel Midland Plaza
+las vegas,1.0,US,2020-04-12,23.0,36.17,-115.14,75.99,9.17,Oasis at Gold Spike
